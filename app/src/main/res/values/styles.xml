@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Edittext_style" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@color/almost_white</item>
+        <item name="android:height">50dp</item>
+    </style>
+    <style name="Addresstext_style" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@color/almost_white</item>
+        <item name="android:height">60dp</item>
+    </style>
+</resources>
